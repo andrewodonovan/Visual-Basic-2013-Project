@@ -1,0 +1,10 @@
+C:\Users\Andrew\Desktop\College\FIrst Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\bin\Debug\Apple Repairs Store.exe.config
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\bin\Debug\Apple Repairs Store.exe
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\bin\Debug\Apple Repairs Store.pdb
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\bin\Debug\Apple Repairs Store.xml
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\obj\Debug\Apple_Repairs_Store.Resources.resources
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\obj\Debug\Apple Repairs Store.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\obj\Debug\Apple Repairs Store.exe
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\obj\Debug\Apple Repairs Store.xml
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\obj\Debug\Apple Repairs Store.pdb
+C:\Users\Andrew\Desktop\College\First Year\Semester 2\Projects\IS1111\Apple Repairs Store\Apple Repairs Store\obj\Debug\Apple_Repairs_Store.Details.resources
